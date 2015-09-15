@@ -17,6 +17,6 @@ from django.conf.urls import include, url
 from django.contrib import admin
 
 urlpatterns = [
-    url(r'^polls/', include('mysite-vcl.apps.polls.urls')),
+    url(r'^polls/', include('mysitevcl.apps.polls.urls')),
     url(r'^admin/', include(admin.site.urls)),
 ]

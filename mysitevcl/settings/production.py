@@ -1,4 +1,4 @@
-from mysite-vcl.settings.base import *
+from mysitevcl.settings.base import *
 
 
 # DEBUG = False

@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite-vcl.settings.local")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysitevcl.settings.local")
 
 application = get_wsgi_application()
