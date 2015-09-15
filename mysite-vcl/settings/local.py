@@ -1,4 +1,4 @@
-from youtubeadl.settings.base import *
+from mysite-vcl.settings.base import *
 
 
 # INSTALLED_APPS += ('debug_toolbar',)
